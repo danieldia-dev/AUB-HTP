@@ -161,4 +161,19 @@ samples = ht.multivariate_alpha_stable.rvs(alpha = 0.8, spectral_measure_sampler
 ![docs/examples/plot_multivariate_sampling.png](docs/examples/plot_multivariate_sampling.png)
 
 ### Papers and Further Readings
+[Information Measures, Inequalities and Performance Bounds for Parameter Estimation in Impulsive Noise Environments](https://ieeexplore.ieee.org/document/8231219) (2018)
+
+#### Preprints
 [Density Functions and Random Number Generators of α-Stable Distributions](https://arxiv.org/abs/2606.28530) (2026)
+
+[Heavy-Tailed Principal Component Analysis](https://arxiv.org/abs/2603.11308) (2026)
+
+#### Other References
+[Univariate Stable Distributions Models for Heavy Tailed Data By John P. Nolan](https://doi.org/10.1007/978-3-030-52915-4) (2020)
+
+[Multivariate elliptically contoured stable distributions: Theory and estimation](https://www.researchgate.net/publication/241359457_Multivariate_elliptically_contoured_stable_distributions_Theory_and_estimation) (2013)
+
+[Integral representations of one-dimensional projections for multivariate stable densities](https://www.sciencedirect.com/science/article/pii/S0047259X08001346) (2009)
+
+[Multivariate Stable Densities as Functions of One Dimensional Projections](https://www.sciencedirect.com/science/article/pii/S0047259X98917559) (1998)
+
